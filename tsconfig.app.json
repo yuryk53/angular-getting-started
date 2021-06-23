@@ -25,6 +25,7 @@
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": true,
-    "enableIvy": false
+    "enableIvy": false,
+    "experimentalDecorators": true
   }
 }
